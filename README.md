@@ -22,6 +22,15 @@ Techs: Git - Numpy - Pandas - Machine Learning - EEG Signal Processing / Time se
 Other skills: Electronics - Embedded programming - CAD Design - Biomechanics
 
 Fluency: French & English
+
+#### Work in Progress projects:
+
+- REM Sleep scoring project (ending in March)
+
+- CV Website hosted on Github (hopefully ending in March too)
+
+- Kaggle titanic competition (trying to optimize my data science programs)
+
 <!--
 **TheTestoff/TheTestoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
