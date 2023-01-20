@@ -2,7 +2,6 @@
 
 Welcome to my Github, my name is Julien, and I am a Biomedical Engineering graduate from the UK!
 I am passionate about neurotechnology, and I mainly use this Github as a way to backup my private repositories.
-You can find on this page my CV
 
 <!--
 **TheTestoff/TheTestoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
