@@ -29,7 +29,9 @@ Fluency: French & English
 
 - CV Website hosted on Github (hopefully ending in March too)
 
-- Kaggle titanic competition (trying to optimize my data science programs)
+- Kaggle titanic competition (trying to optimize my data science algorithms)
+
+- The Grid
 
 <!--
 **TheTestoff/TheTestoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
