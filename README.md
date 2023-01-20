@@ -13,7 +13,11 @@ I intend for all my projects to be found on this page, and currently work in pro
 
 - 📫 How to reach me: You can easily reach me on [LinkedIn](https://www.linkedin.com/in/julien-guerville-a2195b197/), or through my [email](julien.guerville@hotmail.com)
 
+#### Skills:
 
+Languages: Python / MATLAB / MySQL / C# (Unity) / C / HTML & CSS
+
+Techniques: Git, Numpy, Pandas, Machine Learning, EEG Signal Processing / Time series analysis,
 <!--
 **TheTestoff/TheTestoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
