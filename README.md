@@ -1,4 +1,4 @@
-### _Welcome_ 
+### _"The sky above the port was the color of television, tuned to a dead channel."_ 
 
 Welcome to my Github, my name is Julien, and I am a Biomedical Engineering graduate from the UK!
 I am passionate about neurotechnology, and I mainly use this Github as a way to backup my private repositories.
