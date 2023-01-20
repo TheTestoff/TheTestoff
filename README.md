@@ -15,9 +15,13 @@ I intend for all my projects to be found on this page, and currently work in pro
 
 #### Skills:
 
-Languages: Python / MATLAB / MySQL / C# (Unity) / C / HTML & CSS
+Languages: Python - MATLAB - MySQL - C# (Unity) - C - HTML & CSS
 
-Techniques: Git, Numpy, Pandas, Machine Learning, EEG Signal Processing / Time series analysis,
+Techs: Git - Numpy - Pandas - Machine Learning - EEG Signal Processing / Time series analysis
+
+Other skills: Electronics - Embedded programming - CAD Design - Biomechanics
+
+Fluency: French & English
 <!--
 **TheTestoff/TheTestoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
